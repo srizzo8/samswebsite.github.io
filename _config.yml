@@ -1,5 +1,5 @@
 # Site settings
-title: Olmec
+title: Sam
 description: Student at Villanova University. Please check out my work!
 url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
@@ -9,10 +9,10 @@ google_analytics: G-XXXXXXXXXX # requires a free account
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
 
 author:
-  name: 'Olmec'
-  email: olmecthegianttalkingstonehead@villanova.edu
-  twitter_username: OlmecLOTHT
-  github_username: OlmecsTemple
+  name: 'Sam'
+  email: srizzo8@villanova.edu
+  twitter_username: CrashBandicoot
+  github_username: srizzo8
   # linkedin_username: 
   # ssrn_id: 
   # scopus_id:
